@@ -45,6 +45,8 @@
 
 	/* HEADER
 	================================================== */
+
+	
 	/* Navigation */
 	.navbar-nav > li > a {
 		font-size: 14px;
@@ -82,7 +84,7 @@
 
 	.site-section h2,
 	.site-section h3 {
-		font-size: 32px
+		font-size: 32px;
 	}
 
 	/* Section: Skills */
